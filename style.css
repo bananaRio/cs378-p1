@@ -1,0 +1,70 @@
+body {
+  color: white;
+  margin: 5%;
+}
+
+.ocaampus_logo {
+  margin: 5%;
+  border: 2px;
+  padding: 5%;
+}
+.padding1 {
+  padding: 5%;
+}
+.subtitle_special1 {
+  color:rgb(212, 150, 36);
+  font-family: cursive;
+  font-style: italic;
+  font-size: 0.8em;
+  text-align: center;
+}
+
+.subtitle_special2 {
+  color:gray;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:80;
+  font-size: 1.4em;
+  text-align: center;
+}
+
+.padding2 {
+  padding: 10%;
+}
+
+.special_image {
+  max-width: 100%;
+  max-height: 100%;
+  margin: 14%;
+  border-radius: 8%;
+  margin-right: 0%;
+}
+
+.menu_title {
+  font-weight: 390;
+  font-size: large;
+  color:black;
+  text-align: left;
+  padding-top: 4%;
+}
+
+.menu_description {
+  color:black;
+  font-weight: 200;
+  font-size: small;
+}
+
+.menu_price {
+  font-size: small;
+  font-weight: 300;
+  color: black;
+}
+
+.button {
+  border: 0;
+  border-radius: 20px;
+  box-sizing: border-box;
+  background-color: rgb(222, 219, 219);
+  color: black;
+  text-align: center;
+  font-size: smaller;
+}
